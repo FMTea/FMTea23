@@ -19,7 +19,8 @@
       
       <guid>//localhost:1313/home/about/</guid>
       <description>FMTea 2019 Formal Methods Teaching Workshop and Tutorial Event affiliated with FM 2019, 3rd World Congress on Formal Methods 
---Invited speaker Carroll Morgan, University of New South Wales, Australia</description>
+--Invited speaker Carroll Morgan, University of New South Wales, Australia
+Registration Registration is now open. Please see here.</description>
     </item>
     
     <item>
@@ -38,6 +39,20 @@
       
       <guid>//localhost:1313/home/objectives/</guid>
       <description>Formal Methods provide software engineering with tools and techniques for rigorously reasoning about the correctness of systems. While in recent years formal methods are increasingly being used in industry, university curricula are not adapting at the same pace. Some existing formal methods classes interest and challenge students, whereas others fail to ignite student motivation. We need to find ways to teach formal methods to the next generation, and doing so will require us to adapt our teaching to the 21st century students.</description>
+    </item>
+    
+    <item>
+      <title>Accepted Papers</title>
+      <link>//localhost:1313/home/accepted/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/home/accepted/</guid>
+      <description>Andrew Simpson. Teaching Introductory Formal Methods and Discrete Mathematics to Software Engineers: Reflections on a modelling-focussed approach
+Nestor Catano. Teaching Formal Methods: Lessons Learnt from Using Event-B
+Sandrine Blazy. Teaching Deductive Verification in Why3 to Undergraduate Students
+Pamela Fleischmann, Mitja Kulczynski, Dirk Nowotka and Thomas Wilke. Managing Heterogeneity and Bridging the Gap in Teaching Formal Methods
+Adrian Johnstone and Elizabeth Scott. Principled and pragmatic specification of programming languages
+Kristin Yvonne Rozier.</description>
     </item>
     
     <item>
@@ -65,19 +80,6 @@
       
       <guid>//localhost:1313/home/previous/</guid>
       <description>Several events focused on teaching aspects for Formal Methods were held in the beginning of the 2000s: two BCS-FACS TFM workshops (Oxford in 2003 and London in 2006), the TFM 2004 conference in Ghent (with proceedings published as Springer LNCS Volume 3294), the FM-Ed 2006 workshop (Hamilton, co-located with FM&#39;06), FORMED (Budapest, at ETAPS 2008), and FMET 2008 (Kitakyushu 2008, co-located with ICFEM). The latest event was TFM2009, the 2nd International FME Conference on Teaching Formal Methods, in November 2009 in Eindhoven, the Netherlands.</description>
-    </item>
-    
-    <item>
-      <title>Accepted Papers</title>
-      <link>//localhost:1313/home/accepted/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>//localhost:1313/home/accepted/</guid>
-      <description>Andrew Simpson. Teaching Introductory Formal Methods and Discrete Mathematics to Software Engineers: Reflections on a modelling-focussed approach
- Nestor Catano. Teaching Formal Methods: Lessons Learnt from Using Event-B
- Sandrine Blazy. Teaching Deductive Verification in Why3 to Undergraduate Students
- Pamela Fleischmann, Mitja Kulczynski, Dirk Nowotka and Thomas Wilke. Managing Heterogeneity and Bridging the Gap in Teaching Formal Methods
- Adrian Johnstone and Elizabeth Scott. Principled and pragmatic specification of programming languages</description>
     </item>
     
     <item>
