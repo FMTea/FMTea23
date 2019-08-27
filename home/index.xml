@@ -20,7 +20,8 @@
       <guid>//localhost:1313/home/about/</guid>
       <description>FMTea 2019 Formal Methods Teaching Workshop and Tutorial Event affiliated with FM 2019, 3rd World Congress on Formal Methods 
 --Invited speaker Carroll Morgan, University of New South Wales, Australia
-Registration Registration is now open. Please see here.</description>
+Registration Registration is now open.
+Program Schedule is available here.</description>
     </item>
     
     <item>
@@ -39,20 +40,6 @@ Registration Registration is now open. Please see here.</description>
       
       <guid>//localhost:1313/home/objectives/</guid>
       <description>Formal Methods provide software engineering with tools and techniques for rigorously reasoning about the correctness of systems. While in recent years formal methods are increasingly being used in industry, university curricula are not adapting at the same pace. Some existing formal methods classes interest and challenge students, whereas others fail to ignite student motivation. We need to find ways to teach formal methods to the next generation, and doing so will require us to adapt our teaching to the 21st century students.</description>
-    </item>
-    
-    <item>
-      <title>Accepted Papers</title>
-      <link>//localhost:1313/home/accepted/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>//localhost:1313/home/accepted/</guid>
-      <description>Andrew Simpson. Teaching Introductory Formal Methods and Discrete Mathematics to Software Engineers: Reflections on a modelling-focussed approach
-Nestor Catano. Teaching Formal Methods: Lessons Learnt from Using Event-B
-Sandrine Blazy. Teaching Deductive Verification in Why3 to Undergraduate Students
-Pamela Fleischmann, Mitja Kulczynski, Dirk Nowotka and Thomas Wilke. Managing Heterogeneity and Bridging the Gap in Teaching Formal Methods
-Adrian Johnstone and Elizabeth Scott. Principled and pragmatic specification of programming languages
-Kristin Yvonne Rozier.</description>
     </item>
     
     <item>
